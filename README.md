@@ -1,6 +1,6 @@
 # Spring Boot Custom Starter
 
-A simple demo project to show the advantages of custom spring boot starters
+A simple demo project to show the advantages of custom spring boot starters with Spring Boot 3.2.0
 
 ## Sub projects
 
